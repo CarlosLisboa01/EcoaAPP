@@ -1,50 +1,19 @@
-# Welcome to your Expo app 👋
+# Ecoa Denúncia
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Nome dos Integrantes
+- Carlos Henrique Souza Rezende Lisboa
+- Petterson Silva Moreira
 
-## Get started
+## Descrição do Problema Social Escolhido
+Nós identificamos que as pessoas reclamam muito sobre a falta de comunicação com a prefeitura local. A população não sabe para onde ligar ou como relatar problemas como buracos nas ruas, postes com lâmpadas queimadas ou acúmulo de lixo em terrenos. 
 
-1. Install dependencies
+Para resolver esse **problema social da falta de zeladoria urbana e comunicação**, fizemos esse aplicativo. Com o Ecoa Denúncia, o cidadão pode tirar uma foto do problema, preencher os dados (como a cidade e a referência) e o aplicativo já monta e envia a denúncia organizadinha direto pro WhatsApp do órgão responsável. Além disso, para não perder o registro, tudo fica salvo em um banco de dados na nuvem.
 
-   ```bash
-   npm install
-   ```
+## Instruções Básicas para Rodar o Projeto
+Para rodar nosso aplicativo no computador, basta seguir os passos abaixo:
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+1. Certifique-se de ter o **Node.js** instalado no seu computador.
+2. Abra a pasta do projeto no seu terminal (CMD).
+3. Rode o comando `npm install` para baixar todas as dependências do projeto.
+4. Em seguida, rode o comando `npm start` para iniciar o servidor do Expo.
+5. Pegue o seu celular, abra o aplicativo **Expo Go** (Android/iOS) e escaneie o QR Code que vai aparecer na tela do terminal. O aplicativo irá carregar na mesma hora!
