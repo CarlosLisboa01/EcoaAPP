@@ -10,7 +10,7 @@ Nós identificamos que as pessoas reclamam muito sobre a falta de comunicação 
 Para resolver esse **problema social da falta de zeladoria urbana e comunicação**, fizemos esse aplicativo. Com o Ecoa Denúncia, o cidadão pode tirar uma foto do problema, preencher os dados (como a cidade e a referência) e o aplicativo já monta e envia a denúncia organizadinha direto pro WhatsApp do órgão responsável. Além disso, para não perder o registro, tudo fica salvo em um banco de dados na nuvem.
 
 ## Pré-requisitos
-Antes de começar, você precisa ter instalado em sua máquina:NODEJS
+Antes de começar, você precisa ter instalado em sua máquina: NODEJS
 
 ## Instruções Básicas para Rodar o Projeto
 Para rodar nosso aplicativo no computador, basta seguir os passos abaixo:
